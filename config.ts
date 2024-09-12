@@ -2,15 +2,15 @@
 export const companyConfig = {
   ////// Base config used mainly for layout (@/components/navbar/Navbar-1.tsx and @/components/footer/Footer-1.tsx)
   company: {
-    name: "AnotherWrapper",
-    theme: "anotherwrapper",
-    homeUrl: "https://apps.anotherwrapper.com",
+    name: "AI for Work",
+    theme: "ai4work",
+    homeUrl: "https://ai4work.io",
     appUrl: "/",
-    description: "Build your AI startup in hours using our demo apps!",
+    description: "AI-ing you out of a job.",
     logo: "/logo.png",
     navbarLinks: [
-      { label: "Home", href: "https://anotherwrapper.com" },
-      { label: "Other apps", href: "https://apps.anotherwrapper.com" },
+      { label: "Home", href: "https://ai4work.io" },
+      { label: "Other apps", href: "https://app.ai4work.io" },
       { label: "Blog", href: "/blog" },
     ],
   },
